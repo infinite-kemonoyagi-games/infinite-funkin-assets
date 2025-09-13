@@ -1,0 +1,13 @@
+{
+    "size": [150, 150],
+    "animations": [
+        {
+            "name": "default",
+            "position": [0]
+        },
+        {
+            "name": "losing",
+            "position": [1]
+        }
+    ]
+}
